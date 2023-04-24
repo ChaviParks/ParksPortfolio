@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: About Me
+description: Let's get Personal
+image:  assets/images/myHeadshot copy.JPG
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<p>Hello and welcome to my personal portfolio! My name is Chavi Parks and I'm a first-generation college
+student born in Chicago, Il.<br/> I began my college career at the University of Northern Iowa where I pursued two bachelor's degrees and a certification. <strong>Communication</strong> was the first degree. Here, I learned to speak, present, write and cooperate within groups and organizations.
+I pride myself on my ability to build meaningful relationships and present ideas effectivly. My
+second degree is in <strong>interactive digital studies.</strong> The focus of this degree is in web developmnet and digital computation. Through this program I have gained the necessary tools to design, build, and improve digital systems. My understanding of data and programming languages have been expanded due to my cerification in <strong>computer science.</strong> Object oriented programing, data structures, and software archritecture are all focal points of this certification.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<p>Outside of the classroom, I typiclly found myself paricipating in student organizations, working on
+personal projects, or spending time with loved ones. Some of the student orgs I participated in include Entrepreneurship Club, Jumstart Orientation, and the Towers Acivites Board. Within these organizations I attended seminars, lead group discussions, organized activities, and coordinated campus events. If you'd like to know about some of the projects I've worked on, feel free to check out my Project tab that shows what I've been up to recently!</p>
