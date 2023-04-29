@@ -16,6 +16,5 @@ second degree is in <strong>interactive digital studies.</strong> The focus of t
 <p>Outside of the classroom, I typiclly found myself paricipating in student organizations, working on
 personal projects, or spending time with loved ones. Some of the student orgs I participated in include Entrepreneurship Club, Jumstart Orientation, and the Towers Acivites Board. Within these organizations I attended seminars, lead group discussions, organized activities, and coordinated campus events. If you'd like to know about some of the projects I've worked on, feel free to check out my Project tab that shows what I've been up to recently!</p>
 
-<a href="assets/images/myresume.pdf" download="ChaviParks_resume">
-  <img src="assets/images/myresume.pdf" alt="My resume">
-</a>
+<img src="assets/images/myresume.pdf" alt="My resume">
+<a href="assets/images/myresume.pdf" download="ChaviParks_resume" class="button next">Download file</a>
