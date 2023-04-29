@@ -1,17 +1,17 @@
 # site settings
 title: Parks
 subtitle: Portfolio
-email:  chaviparks@gmail.com
-description: Welcome to my Digital Portfolio<br /> Feel free to browse my works or contact me below!
+email: chaviparks@gmail.com
+description: Welcome to my Digital Portfolio<br/> Feel free to browse my works or contact me below!
 baseurl: "/ParksPortfolio" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "ParksPortfolio" # the base hostname & protocol for your site
 author: Chavi Parks
-street_address: 
+street_address:
 city: Cedar Falls
 state: IA
 zip_code: 50613
 country: United States of America
-phone: (319)399-1391
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
