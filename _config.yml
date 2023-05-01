@@ -4,7 +4,7 @@ subtitle: Portfolio
 email: chaviparks@gmail.com
 description: Welcome to my Digital Portfolio<br/> Feel free to browse my works or contact me below!
 baseurl: "/ParksPortfolio" # the subpath of your site, e.g. /blog
-url: "ParksPortfolio" # the base hostname & protocol for your site
+url: "http://ChaviParks.github.io" # the base hostname & protocol for your site
 author: Chavi Parks
 street_address:
 city: Cedar Falls
