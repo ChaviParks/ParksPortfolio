@@ -7,58 +7,6 @@
 <html>
 
   {% include head.html %}
-  <head>
-          
-    <style>
-      .slider {
-        width: 500px;
-        height: 300px;
-        background-color: rgb(27,30,51);
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0px;
-        text-align: center;
-        overflow: hidden;
-      }
-      .image-container {
-        width: 1500px;
-        background-color: rgb(27,30,51);
-        height: 300px;
-        clear: both;
-        position: relative;
-        -webkit-transition: left 2s;
-        -moz-transition: left 2s;
-        -o-transition: left 2s;
-        transition: left 2s;
-      }
-      .slide {
-        float: left;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-      }
-      #slide-1:target ~ .image-container {
-        left: 0px;
-      }
-      #slide-2:target ~ .image-container {
-        left: -500px;
-      }
-      #slide-3:target ~ .image-container {
-        left: -1000px;
-      }
-      .buttons {
-        position: relative;
-        top: -20px;
-      }
-      .buttons a {
-        display: inline-block;
-        height: 15px;
-        width: 15px;
-        border-radius: 50px;
-        background-color: rgb(27,30,51);
-      }
-    </style>
-  </head>
   <body>
     {% include header.html %} 
   
@@ -78,27 +26,17 @@
           created using Adobe Illustrator. Overall, these works are just a fun way I can express myself.</p>
       
       <!-- Two -->
-      <html>
-        <body>
-          <div class="slider">
-            <span id="slide-1"></span>
-            <span id="slide-2"></span>
-            <span id="slide-3"></span>
-            <div class="image-container">
-              <img src="assets/images/ILB.jpg" class="slide" width="500" height="300" />
-              <img src="assets/images/Coffe.jpg" class="slide" width="500" height="300" />
-              <img src="assets/images/Terrain.png" class="slide" width="500" height="300" />
-            </div>
-            <div class="buttons">
-              <a href="#slide-1"></a>
-              <a href="#slide-2"></a>
-              <a href="#slide-3"></a>
-            </div>
-          </div>
-        </body>
-      </html>
-      </section>
-
+      <div class="box alt">
+        <div class="row 50% uniform">
+          <div class="4u"><span class="image fit"><img src="{% link assets/images/ILB.jpg %}" alt="" /></span></div>
+          <div class="4u"><span class="image fit"><img src="{% link assets/images/Coffe.jpg %}" alt="Coffee shop logos" /></span></div>
+          <div class="4u$"><span class="image fit"><img src="{% link assets/images/BigAlum-copy.jpg %}" alt="" /></span></div>
+          <!-- Break -->
+          <div class="4u"><span class="image fit"><img src="{% link assets/images/Terrain.png %}" alt="Fragrance logos" /></span></div>
+          <div class="4u"><span class="image fit"><img src="{% link assets/images/Col.jpg %}" alt="humanoied basball" /></span></div>
+          <div class="4u$"><span class="image fit"><img src="{% link assets/images/BatMan.jpg %}" alt="" /></span></div>
+         
+      </div>
     </div>
 
     {% include footer.html %}
