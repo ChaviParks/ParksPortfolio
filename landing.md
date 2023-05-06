@@ -22,7 +22,7 @@ nav-menu: true
 	
 {% for projects in site.data.myProjects %}
         <section>
-        <a href="generic.html" class="image">
+        <a href="" class="image">
 			<img src="./assets/images/{{ projects.Image }}" alt="" data-position="25% 25%" />
 		</a>
     <div class = "content">
