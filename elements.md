@@ -27,9 +27,11 @@ nav-menu: true
 
 I have also developed a keen eye for identifying and resolving issues related to programmed styling, which has helped me to develop strong debugging skills that I can carry with me throught my softwae career. 
 
-In addition, my exposure to digital systems that protect and optimize existing websites gave me a good understanding of web security and performance optimization. By participating in department meetings, I have been able to stay up-to-date with the latest technology practices and learn how to effectively communicate with clients.
+In addition, my exposure to digital systems that protect and optimize existing websites gave me a good understanding of web security and performance optimization. <br>By participating in department meetings, I have been able to stay up-to-date with the latest technology practices and learn how to effectively communicate with clients.
 
-Overall, my internship at Amperage has provided me with a solid foundation of skills and experiences that I am confident I can leverage to excel in any technology position.</blockquote>
+Overall, my internship at Amperage has provided me with a solid foundation of skills and experiences that I am confident I can leverage to excel in any technology position.
+
+Below, you can take a closer look at some of the larger projects I have worked on within my internship.</blockquote>
 
 <div class="box">
 <p><span class="image left"><img src="assets/images/GCRF.png" alt="" /></span><h3>Quality Assurance</h3> In my initial weeks of website development I was responsible for quality assurance on a client's website. I utilized Trello to track and manage identified issues, systematically working to debug layout issues and integrate content supplied by the client.</p>
