@@ -1,0 +1,53 @@
+
+/*carousel*/
+
+.carousel {
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+    margin: 0 auto;
+    max-width: 1000px;
+  }
+  
+  .carousel input[type="radio"] {
+    position: absolute;
+    left: -9999px;
+  }
+  
+  .carousel-slides {
+    display: flex;
+    position: relative;
+    height: 100%;
+  }
+  
+  .carousel-slides .slide {
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel input[type="radio"]:checked ~ .carousel-slides .slide {
+    transform: translateX(calc(-100% / 5));
+  }
+  
+  .carousel-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .carousel-dots label {
+    margin: 0 0.5rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ccc;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .carousel-dots label:hover,
+  .carousel-dots input[type="radio"]:checked + label {
+    background-color: #333;
+  }
