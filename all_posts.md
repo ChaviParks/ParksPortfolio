@@ -29,11 +29,9 @@ Check back over the folowing months to watch this library grow! </p>
         <div class="row 50% uniform">
           <div class="4u"><span class="image fit"><img src="assets/images/ILB.jpg" alt="" /></span></div>
           <div class="4u"><span class="image fit"><img src="assets/images/Coffe.jpg" alt="Coffee shop logos" /></span></div>
+          <div class="4u"><span class="image fit"><img src="assets/images/Terrain.png" alt="Fragrance logos" /></span></div>
           <div class="4u$"><span class="image fit"><img src="assets/images/BigAlumcopy.jpg" alt="" /></span></div>
-      
-<div class="4u"><span class="image fit"><img src="assets/images/Terrain.png" alt="Fragrance logos" /></span></div>
           <div class="4u"><span class="image fit"><img src="assets/images/Col.jpg" alt="humanoied basball" /></span></div>
-          <div class="4u$"><span class="image fit"><img src="assets/images/BatMan.png" alt="" /></span></div>
          
 </div>
 </div>
