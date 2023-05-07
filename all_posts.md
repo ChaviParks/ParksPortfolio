@@ -3,8 +3,8 @@ layout: allposts
 title: Artworks
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
+description: Some of my simple illustrations!
+image: Laptop.jpg
 author: null
 show_tile: false
 ---
@@ -14,9 +14,6 @@ show_tile: false
  <!-- One -->
     <section id="one">
 	  <div class="inner">
-		  <header class="major">
-			  <h1>Artworks</h1>
-		  </header>
 
 <!--Content-->
       
