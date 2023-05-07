@@ -3,7 +3,7 @@
 layout: page
 title: About Me
 description: Let's get personal
-image: assets/images/myHeadshot copy2.JPG
+image: assets/images/myHeadshotcopy2.JPG
 nav-menu: true
 
 ---
