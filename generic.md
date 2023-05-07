@@ -2,8 +2,8 @@
 #layout: post,landing or page
 layout: page
 title: About Me
-description: Let's get Personal
-image: assets/images/myHeadshotcopy2.JPG
+description: Let's get personal
+image: assets/images/myHeadshot copy2.JPG
 nav-menu: true
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Resume
 image: assets/images/pic01.jpg
-description: experience is key
+description: My current experience and skills
 nav-menu: true
 ---
 

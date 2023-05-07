@@ -4,7 +4,7 @@ title: Artworks
 landing-title: 'All posts'
 nav-menu: true
 description: Some of my simple illustrations!
-image: Laptop.jpg
+image: assets/images/Laptop.jpg
 author: null
 show_tile: false
 ---
