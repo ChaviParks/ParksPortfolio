@@ -12,10 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>About Me</h1>
-		</header>
-
+		
 <!-- content -->
 
 <p><span class="image left"><img src="assets/images/myHeadshotcopy.JPG" alt="" /></span>Hello and welcome to my personal portfolio! My name is Chavi Parks and I'm a first-generation college student born in Chicago, Il.

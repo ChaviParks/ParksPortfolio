@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Resume
 image: assets/images/pic01.jpg
 description: experience is key
@@ -12,9 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Resume</h1>
-		</header>
+		
 <p></p>
 <img src="assets/images/MyResume.jpg" alt="My resume" >
 <!-- Break -->
