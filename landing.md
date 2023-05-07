@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: A collection of some fun projects<br />I've created over the years.
+description: A collection of some fun projects<br /> I've created over the years.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
