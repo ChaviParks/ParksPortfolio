@@ -18,7 +18,7 @@ nav-menu: true
 
 <!-- content -->
 
-<p><span class="image left"><img src="assets/images/myHeadshotcopy.JPG" alt="" /></span>Hello and welcome to my personal portfolio! My name is Chavi Parks and I'm a first-generation college student born in Chicago, Il.
+<p>Hello and welcome to my personal portfolio! My name is Chavi Parks and I'm a first-generation college student born in Chicago, Il.
 I began my college career at the University of Northern Iowa where I pursued two bachelor's degrees and a certification. <strong>Communication</strong> was the first degree. Here, I learned to speak, present, write and cooperate within groups and organizations. I pride myself on my ability to build meaningful relationships and present ideas effectivly. My second degree is in <strong>Interactive Digital Studies.</strong> The focus of this degree is in web developmnet and digital computation. Through this program I have gained the necessary tools to design, build, and improve digital systems. My understanding of data and programming languages have been expanded due to my cerification in <strong>Computer Science.</strong> Object oriented programming, data structures & algorithms, and software architecture are all focal points of this certification.</p>
 
 <p>Outside of the classroom, I typically found myself participating in student organizations, working on

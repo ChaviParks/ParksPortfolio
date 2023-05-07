@@ -11,7 +11,7 @@ city: Cedar Falls
 state: IA
 zip_code: 50613
 country: United States of America
-
+phone: (319) 899-0809
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
