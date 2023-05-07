@@ -5,6 +5,7 @@ title: About Me
 description: Let's get Personal
 image: assets/images/myHeadshotcopy2.JPG
 nav-menu: true
+show_tile: false
 ---
 <!-- Main -->
 <div id="main" class="alt">
