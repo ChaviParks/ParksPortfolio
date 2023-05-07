@@ -7,7 +7,7 @@
   Language: Python | pygame
 
   Description: This project is my personal rendition on the classic alien invasion game. It is a multi-object program that utilizes pygame to draw objects
-   to the screen. From there, these objects can be moved, detect collisions, and keep track of the current game level. I created the icons for the game using Ilustrator.
+   to the screen. From there, these objects can be moved, detect collisions, and keep track of the current game level. I created the icons for the game using Adobe Illustrator.
    I have plans to revisit this project to update visual assest as well as add random power ups!
 
   Image: AiScreengrab.jpg
@@ -18,7 +18,7 @@
   Language: Java
 
   Description: This is a fun in-class program I was tasked with creating. As the title suggests, this is a blackjack game that allows for differet styles of play. 
-    One of these styles allows for a GUI to display for a user to play against a computer. This project encourperates multiple objects such as cards, a deck, a hand, and players. 
+    One of these styles allows for a GUI to display for a user to play against a computer. This project incorporates multiple objects such as cards, a deck, a hand, and players. 
 
   Image: BlackJ.jpg
   
@@ -38,6 +38,6 @@
   Language: Java
 
   Description: This program, maintains and presents a user's audio and video collections using subclasses and array lists. Ultimatly, a user can add, remove or play a media item as well 
-    as adding meaningful details like the albumbs artist or movies actors.This project uses a comparator to organize the albums by 'listens'.
+    as adding meaningful details like the albums' artist or movies' actors. This project uses a comparator to organize the albums by 'listens'.
 
   Image: pic10.jpg
