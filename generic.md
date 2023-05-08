@@ -22,5 +22,5 @@ I began my college career at the University of Northern Iowa where I pursued two
 <p>Outside of the classroom, I typically found myself participating in student organizations, working on
 personal projects, or spending time with loved ones. Some of the student organizations I participated in include Entrepreneurship Club, Jumstart Orientation, and the Towers Acivites Board. Within these organizations I attended seminars, lead group discussions, organized activities, and coordinated campus events. If you'd like to know about some of the projects I've worked on, feel free to check out my Project tab that shows what I've been up to recently!</p>
 	</div>
-</div>
+
 </section>
