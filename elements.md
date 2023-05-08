@@ -44,4 +44,4 @@ Below, you can take a closer look at some of the larger projects I have worked o
 <p><span class="image right"><img src="assets/images/Plugins.png" alt="" /></span><h3>Security and Optimization</h3>As I learned during my internship, securing a website is a crucial aspect of its success, as important as creating a great design. In my role, I worked on various client sites to install and update plugins that were responsible for enhancing website security and optimizing website performance. This was done with the aim of ensuring that only authorized personnel had access to the backend of client sites, and to provide our clients with peace of mind knowing that their websites were secure. Furthermore, we provided our clients with tools to analyze user data and improve their website's user experience (UX), emphasizing our commitment to enhancing both security and functionality.</p>
 </div>
 </div>
-
+</section>
