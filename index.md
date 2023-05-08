@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Welcom to my portfolio
+landing-title: Welcome to my portfolio
 description: 
 image: banner.jpg
 author: null
