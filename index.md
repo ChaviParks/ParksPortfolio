@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Hello, my name is Chavi
-description: Welcome to my Digital experience.
+landing-title: Welcom to my portfolio
+description: 
 image: banner.jpg
 author: null
 show_tile: false
