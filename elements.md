@@ -23,11 +23,11 @@ nav-menu: true
 <h3>Internship Summary </h3>
 <blockquote>Throughout my internship at Amperage, I have gained valuable skills and perspectives that are valuable in various technology fields, including web development and software engineering. Working closely with clients, I honed my ability to create digital pages that accurately reflect their brand identity, which allowed me to develop strong skills in user interface (UI) and user experience (UX) design.<br>
 
-I have also developed a keen eye for identifying and resolving issues related to programmed styling, which has helped me to develop strong debugging skills that I can carry with me throught my softwae career. 
+I have also developed a keen eye for identifying and resolving issues related to programmed styling, which has helped me to develop strong debugging skills that I can carry with me throught my software career. 
 
 In addition, my exposure to digital systems that protect and optimize existing websites gave me a good understanding of web security and performance optimization. <br>By participating in department meetings, I have been able to stay up-to-date with the latest technology practices and learn how to effectively communicate with clients.
 
-Overall, my internship at Amperage has provided me with a solid foundation of skills and experiences that I am confident I can leverage to excel in any technology position.
+Overall, my internship at Amperage has provided me with a solid foundation of skills and experiences that I am confident I can leverage in any technology position.
 
 Below, you can take a closer look at some of the larger projects I have worked on within my internship.</blockquote>
 
