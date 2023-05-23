@@ -21,9 +21,9 @@ nav-menu: true
 <p></p>
 
 <h3>Internship Summary </h3>
-<blockquote>Throughout my internship at Amperage, I have gained valuable skills and perspectives that are valuable in various technology fields, including web development and software engineering. Working closely with clients, I honed my ability to create digital pages that accurately reflect their brand identity, which allowed me to develop strong skills in user interface (UI) and user experience (UX) design.<br>
+<blockquote>Throughout my internship at Amperage, I have gained skills and perspectives that are valuable in various technology fields, including web development and software engineering. Working closely with clients, I honed my ability to create digital pages that accurately reflect their brand identity, which allowed me to develop strong skills in user interface (UI) and user experience (UX) design.<br>
 
-I have also developed a keen eye for identifying and resolving issues related to programmed styling, which has helped me to develop strong debugging skills that I can carry with me throught my software career. 
+I have also developed a keen eye for identifying and resolving issues related to code styling, which has helped me to develop strong debugging skills that I can carry with me through out my software career. 
 
 In addition, my exposure to digital systems that protect and optimize existing websites gave me a good understanding of web security and performance optimization. <br>By participating in department meetings, I have been able to stay up-to-date with the latest technology practices and learn how to effectively communicate with clients.
 
@@ -32,7 +32,7 @@ Overall, my internship at Amperage has provided me with a solid foundation of sk
 Below, you can take a closer look at some of the larger projects I have worked on within my internship.</blockquote>
 
 <div class="box">
-<p><span class="image left"><img src="assets/images/GCRF.png" alt="" /></span><h3>Quality Assurance</h3> In my initial weeks of website development I was responsible for quality assurance on a client's website. I utilized Trello to track and manage identified issues, systematically working to debug layout issues and integrate content supplied by the client.</p>
+<p><span class="image left"><img src="assets/images/GCRF.png" alt="" /></span><h3>Quality Assurance</h3> In my initial weeks of website development I was responsible for quality assurance on a client's website. I utilized Trello to track and manage identified issues, systematically working to debug layout issues, and integrate content supplied by the client.</p>
  
 
 <p><span class="image right"><img src="assets/images/waverlyChildcare.png" alt="" /></span><h3>Webpage Design</h3>My first design project was working with <a href="https://waverlychildcare.org/caring-for-our-kids/">Waverly childcare</a>. I was tasked with creating a landing page using the Seed Prod website theme builder. My main objective was to bring the client's vision to life while adhering closely to the approved design, ensuring that the resulting landing page was both functional and visually appealing across both desktop and mobile platforms.</p>
