@@ -3,7 +3,7 @@ layout: allposts
 title: Artworks
 landing-title: 'All posts'
 nav-menu: true
-description: Some of my simple illustrations!
+description: Some simple illustrations!
 image: assets/images/laptop.jpg
 author: null
 show_tile: false
@@ -17,8 +17,8 @@ show_tile: false
 
 <!--Content-->
       
-<p> Here are some of my recent digital creations that were made using Adobe Illustrator. 
-These designs are usually simple and serve simply as a way for me to express my creativity.
+<p> Below are some of my recent digital creations that were made using Adobe Illustrator. 
+These designs are usually simple and serve as a way for me to express my creativity.
 Check back over the folowing months to watch this library grow! </p>
 
 <!-- plain gallary -->
