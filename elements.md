@@ -20,7 +20,7 @@ nav-menu: true
 <a href="assets/files/myresume.pdf" download="ChaviParks_resume" class="button icon fa-download">Download</a> 
 <p></p>
 
-<h3>Internship Summary </h3>
+<h3>AMPERAGE Internship Summary </h3>
 <blockquote>Throughout my internship at Amperage, I have gained skills and perspectives that are valuable in various technology fields, including web development and software engineering. Working closely with clients, I honed my ability to create digital pages that accurately reflect their brand identity, which allowed me to develop strong skills in user interface (UI) and user experience (UX) design.<br>
 
 I have also developed a keen eye for identifying and resolving issues related to code styling, which has helped me to develop strong debugging skills that I can carry with me through out my software career. 
